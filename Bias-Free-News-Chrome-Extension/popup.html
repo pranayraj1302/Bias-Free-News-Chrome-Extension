@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bias-Free News</title>
+    <script src="popup.js" defer></script>
+    <style>
+        body { width: 300px; padding: 10px; font-family: Arial, sans-serif; }
+        #status { margin-top: 10px; font-weight: bold; }
+        #articleText { margin-top: 10px; font-size: 12px; white-space: pre-wrap; max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 5px; }
+        #copyButton { margin-top: 10px; display: block; }
+    </style>
+</head>
+<body>
+    <h2>Bias-Free News</h2>
+    <button id="processArticle">Process Article</button>
+    <p id="status"></p>
+    <div id="articleText"></div>
+    <button id="copyButton" style="display: none;">Copy Bias-Free Version</button>
+</body>
+</html>
