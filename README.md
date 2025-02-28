@@ -48,3 +48,33 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or suggestions, contact **Pranay Raj** at *pranayraj.g1302@gmail.com*.
+
+## Testing
+
+Website checked: https://unpause.club/resources/blogs/blood-tests-for-menopause-and-perimenopause
+
+1. Structure & Clarity
+Bias-Free Version: The content is structured clearly, with headings and bullet points making it easy to read. It ensures neutrality by avoiding promotional claims.
+Original Article: The structure remains the same, with clear sections and bullet points, but it includes promotional content at the end.
+
+2. Tone & Objectivity
+Bias-Free Version: Uses neutral, factual language. It avoids suggestive phrases that may influence the reader’s decision.
+Original Article: While largely informative, the article includes a disclaimer at the end regarding consumer testing and product claims, which introduces a marketing element.
+
+3. Content Differences
+Bias-Free Version:
+Retains all medical and scientific details.
+Removes promotional disclaimers and references to specific products like "Coolzen and Unpause Loop."
+Focuses purely on menopause and perimenopause blood tests.
+Original Article:
+Contains an additional disclaimer about the effectiveness of Coolzen and Unpause Loop.
+Includes a business address (Ahead Studio, London), indicating a commercial intent.
+Mentions that results are based on consumer testing and user feedback, which subtly promotes a product.
+
+4. Accuracy & Scientific Integrity
+Both versions provide medically accurate information, but the Bias-Free Version ensures the focus remains solely on health without potential commercial influence.
+Conclusion
+
+**The Bias-Free Version removes marketing elements while maintaining the integrity of the original medical information. It is more objective and suitable for neutral, educational purposes. The Original Article mixes informational content with commercial disclaimers, making it more promotional in nature.**![Screenshot 2025-03-01 000428](https://github.com/user-attachments/assets/426e7844-1a77-4fa8-94da-5243becc251e)
+
+
